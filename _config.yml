@@ -1,24 +1,24 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+title: Geenoos
+email: freiya1002@naver.com
+description: 하루하루 공부한 거 끄적이기
+author: Geenoos
+baseurl: "/Geenoos.github.io"
+url: "https://Geenoos.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
-instagram_username:  
+twitter_username: None
+github_username: Geenoos
+facebook_username: 최진우
+instagram_username:
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+google_analytics: UA-XXXXXXXXX-X # out your google-analytics code
 
 # Build settings
-markdown:           kramdown
-paginate:           5
-paginate_path:      "/posts/page:num/"
+markdown: kramdown
+paginate: 5
+paginate_path: "/posts/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
