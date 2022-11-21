@@ -1,0 +1,23 @@
+{
+  "name": "geenoos.github.io",
+  "version": "1.0.0",
+  "description": "밥주기1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Geenoos/Geenoos.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Geenoos/Geenoos.github.io/issues"
+  },
+  "homepage": "https://github.com/Geenoos/Geenoos.github.io#readme",
+  "dependencies": {
+    "vite": "^3.2.4"
+  }
+}
